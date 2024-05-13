@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "name": "Jane Doe",
+      "title": "The Art of Baking",
+      "price": 850,  
+      "category": "Food",
+      "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715168789~exp=1715172389~hmac=644439ff305b49498094a176bdcfd28170f1e1c42c092f9bae403ed6be197dc5&w=740"
+    },
+    {
+      "id": 2,
+      "name": "John Smith",
+      "title": "Mystery at Midnight",
+      "price": 650,   
+      "category": "Free",
+      "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715168789~exp=1715172389~hmac=644439ff305b49498094a176bdcfd28170f1e1c42c092f9bae403ed6be197dc5&w=740"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "title": "The History Buff's Guide",
+      "price": 1160,  
+      "category": "Free",
+      "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715168789~exp=1715172389~hmac=644439ff305b49498094a176bdcfd28170f1e1c42c092f9bae403ed6be197dc5&w=740"
+    },
+    {
+      "id": 4,
+      "name": "David Brown",
+      "title": "Cooking Without Limits",
+      "price": 1406.25,  
+      "category": "Free",
+      "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715168789~exp=1715172389~hmac=644439ff305b49498094a176bdcfd28170f1e1c42c092f9bae403ed6be197dc5&w=740"
+    },
+    {
+      "id": 5,
+      "name": "Emily Green",
+      "title": "Romantic Escapes",
+      "price": 639.23, 
+      "category": "Free",
+      "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715168789~exp=1715172389~hmac=644439ff305b49498094a176bdcfd28170f1e1c42c092f9bae403ed6be197dc5&w=740"
+    },
+    {
+      "id": 6,
+      "name": "Michael White",
+      "title": "The Science of Flavor",
+      "price": 1068.75,  
+      "category": "Free",
+      "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715168789~exp=1715172389~hmac=644439ff305b49498094a176bdcfd28170f1e1c42c092f9bae403ed6be197dc5&w=740"
+    },
+    {
+      "id": 7,
+      "name": "Emily Green",
+      "title": "Romantic Escapes",
+      "price": 639.23, 
+      "category": "Free",
+      "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715168789~exp=1715172389~hmac=644439ff305b49498094a176bdcfd28170f1e1c42c092f9bae403ed6be197dc5&w=740"
+    },
+    {
+      "id": 8,
+      "name": "Michael White",
+      "title": "The Science of Flavor",
+      "price": 1068.75,  
+      "category": "Free",
+      "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715168789~exp=1715172389~hmac=644439ff305b49498094a176bdcfd28170f1e1c42c092f9bae403ed6be197dc5&w=740"
+    },
+    {
+      "id": 9,
+      "name": "Emily Green",
+      "title": "Romantic Escapes",
+      "price": 639.23, 
+      "category": "Free",
+      "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715168789~exp=1715172389~hmac=644439ff305b49498094a176bdcfd28170f1e1c42c092f9bae403ed6be197dc5&w=740"
+    },
+    {
+      "id": 10,
+      "name": "Michael White",
+      "title": "The Science of Flavor",
+      "price": 1068.75,  
+      "category": "Free",
+      "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715168789~exp=1715172389~hmac=644439ff305b49498094a176bdcfd28170f1e1c42c092f9bae403ed6be197dc5&w=740"
+    },
+    {
+      "id": 11,
+      "name": "Emily Green",
+      "title": "Romantic Escapes",
+      "price": 639.23, 
+      "category": "Free",
+      "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715168789~exp=1715172389~hmac=644439ff305b49498094a176bdcfd28170f1e1c42c092f9bae403ed6be197dc5&w=740"
+    },
+    {
+      "id": 12,
+      "name": "Michael White",
+      "title": "The Science of Flavor",
+      "price": 1068.75,  
+      "category": "Free",
+      "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715168789~exp=1715172389~hmac=644439ff305b49498094a176bdcfd28170f1e1c42c092f9bae403ed6be197dc5&w=740"
+    }
+  ]
+  
